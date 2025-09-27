@@ -1,5 +1,5 @@
-# neim
+# det
 
-neim is a GKI defconfig editor adding support for extended device functionality.
+`det` is a GKI defconfig editor tool. It can be used to enable and/or otherwise disable features within kernel.
 
-Currently, it is a work-in-progress and is being developed in it's own pace :)
+Currently it is a work-in-progress and is being developed in it's own pace.
